@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/Component/Posts/Posts.css"],"names":[],"mappings":"AAAA,EACI,qBAAsB,CACtB,SAAU,CACV,QACJ,CCJA,gBACI,cACJ","file":"main.6e5fe624.chunk.css","sourcesContent":["*{\r\n    box-sizing: border-box;\r\n    padding: 0;\r\n    margin: 0;\r\n}",".cursor-pointer{\r\n    cursor: pointer;\r\n}"]}
